@@ -3,7 +3,7 @@
 // & http://www.arduinotehniq.com
 
 void setup(){
-   for(int i=4; i<13; i++){  // each led is in series with 220-470 ohms resitor
+   for(int i=4; i<14; i++){  // each led is in series with 220-470 ohms resitor
        pinMode(i,OUTPUT);
    }
 }
